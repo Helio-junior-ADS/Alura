@@ -1,2 +1,2 @@
 # Alura
-Diretório para Curso e projetos da Alura
+Diretório para Cursos e projetos da Alura
