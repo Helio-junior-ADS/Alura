@@ -1,0 +1,12 @@
+- Tipagem dinamica: Não precisa declarar o tipo de variavel na declaração.
+- Tipagem estatica: Precisa declara o tipo na declaralção da variavel.
+- Linguagens compiladas são aquelas em que o código escrito pela pessoa é “traduzido” para linguagem de máquina, gerando outro código que aí sim pode ser executado - exemplos  de linguagens compiladas são Java, C e Go.
+- Nas linguagens interpretadas o código escrito é traduzido para linguagem de máquina durante a execução - por exemplo, Python e JavaScript.
+- Multiparadigma: Consegue resolver o mesmo problema de varias formas diferente.
+- Tipos Primitivos: number, string e boolenao.
+- '==': Compara o valor. (implicita)
+- '===': Compara o tipo e valor. (implicito)
+- Conversão explicita: especificar qual é o tipo da varivael na declaraçao - string(), number() ou booleano()
+- != não é ingual.
+- !=== estritamente não ingual.
+- um string `vazia` é considerada false, é a mesma coisa de dizer que ela é 0
